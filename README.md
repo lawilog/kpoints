@@ -7,6 +7,7 @@ Those paths are drawn, e.g. on https://en.wikipedia.org/wiki/Brillouin_zone [acc
 
 The format of the files is that of the KPOINTS file in VASP (the Vienna Ab initio simulation package, see https://www.vasp.at/ ).
 The first 4 lines are header (the very first says which lattice type we have), followed by pairs of line segments like
+
    0.000   0.000   0.000   ! \Gamma  
    0.500   0.500   0.500   ! L  
 
